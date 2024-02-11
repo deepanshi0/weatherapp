@@ -1,6 +1,4 @@
-### README.md
 
-```markdown
 # WeatherApp - Weather Forecast Application
 
 Welcome to WeatherApp! This intuitive and visually appealing web application brings you the latest weather forecasts. Leveraging data from OpenWeatherMap, WeatherApp presents weather conditions, temperature trends, and detailed analyses through interactive graphs for states and their cities.
@@ -76,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - **Project URL**: [https://github.com/deepanshi0/weatherapp](https://github.com/deepanshi0/weatherapp)
 
 Thank you for exploring WeatherApp. We hope it brings you all the weather information you need, with a dash of style!
-```
+
